@@ -1,0 +1,17 @@
+.main{
+  background: gold;
+  width: 72%;
+  display: flex;
+  text-align: center;
+}
+.left{
+  background: lightblue ;
+  width: 50%;
+}
+.left img{
+  width: 100%;
+}
+.right{
+  background: red;
+  width: 40%
+}
